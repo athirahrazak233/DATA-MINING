@@ -1,3 +1,5 @@
 youtube :
+part 1 https://youtu.be/80v2IjBFa0M
+part 2 https://youtu.be/2itKfG3UgOA
 
-github :
+github : https://github.com/athirahrazak233/DATA-MINING/tree/master/MILESTONE%202-WQD170072
